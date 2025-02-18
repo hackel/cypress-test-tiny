@@ -2,6 +2,7 @@ mochawesome-report/
 node_modules/
 report/
 .DS_Store
+.idea/
 
 # Temporary Cypress files
 cypress/downloads
